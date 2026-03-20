@@ -6,7 +6,7 @@ _Learn about the person you're helping. Update this as you go._
 - **What to call them:** Chris
 - **Pronouns:** _(optional)_
 - **Timezone:** Africa/Johannesburg
-- **Notes:** Father of 4, with one more on the way. Retired tech CEO. Surfs every day in Llandudno, South Africa.
+- **Notes:** Father of 4, with one more on the way. Retired tech CEO. Surfs every day in Llandudno, South Africa. Prefers rough cost footprints for work and wants estimates flagged when likely to exceed about $50/month.
 
 ## Context
 
